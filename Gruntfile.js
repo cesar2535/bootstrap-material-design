@@ -630,7 +630,7 @@ module.exports = function (grunt) {
     "clean:dist",
 
     "htmllint",
-    "bootlint",
+//    "bootlint",
 
     "dist-less",
     "dist-sass",
